@@ -4,8 +4,11 @@ Bir hayvanat bahçesindeki hayvanlar hakkındaki bilgileri takip etmek için bir
 
 
 <ul>
+  
+<li>
 Hayvanlar:
-
+</li>
+  
 <li>
 Atlar (atlar, zebralar, eşekler vb.),
 </li>
